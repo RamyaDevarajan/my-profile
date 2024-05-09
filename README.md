@@ -1,5 +1,5 @@
-# Your Project's Title...
-Your project's description...
+# My Profile
+Aim of the Project is to create a portfolio project in Adobe Edge delivery services by utilizing document based Authoring.
 
 ## Environments
 - Preview: https://main--my-profile--RamyaDevarajan.hlx.page/
